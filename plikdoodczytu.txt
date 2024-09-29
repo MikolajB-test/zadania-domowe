@@ -1,0 +1,1 @@
+odczytuje ten plik *beep beep*
